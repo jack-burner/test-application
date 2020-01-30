@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'mysql',
+	'hostname' => 'ecs-lamp-task-test-2-mysql-8abedea0bfdebbcc2b00',
 	'port' => '3306',
 	'username' => 'root',
 	'password' => 'tiger',
